@@ -1,0 +1,80 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.container-home-page1 {
+  padding-top: 2rem;
+  background: url('bg-home.jpg');
+  background-color: background-color: rgba(91, 120, 40, 0.472);
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.container-text {
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+  background-color: #666666;
+}
+
+.container-jadwal-piket {
+  background-color: background-color: #666666;
+  width: 100%;
+  height: 100vh;
+}
+
+.blocked {
+  width: 100%;
+  height: 200px;
+}
+
+.container-notifikasi {
+  width: 100%;
+  height: 100px;
+  background-color: #666666;
+  border-top-right-radius: 2rem;
+  border-top-left-radius: 2rem;
+}
+
+.desain-baru {
+  width: 100%;
+  height: 175px;
+  border-radius: 0 0 10px 10px;
+}
+
+.span-color {
+  border-radius: 5px;
+  background-color: crimson;
+  color: white;
+}
+
+.senin-selasa-rabu {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  height: 480px;
+}
+
+.kamis-jumat-sabtu {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+
+.cont-jpelajaran {
+  width: 100%;
+  height: 1050px;
+  justify-content: center;
+  align-items: center;
+}
+
+.tentang-kami {
+  width: 100%;
+  height: 500px;
+  padding: 10px;
+}
