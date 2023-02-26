@@ -88,3 +88,8 @@ html {
 .made .p {
   font-size: 6px;
 }
+
+.fill-galery {
+  width: 100%;
+  height: 500px;
+}
